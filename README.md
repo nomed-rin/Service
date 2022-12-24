@@ -27,3 +27,4 @@ Plays("ที่อยุ่ของไฟล์")
 ```lua
 getgenv().waitTime = 1
 ```
+หน้าตา macro https://raw.githubusercontent.com/nomed-rin/script_example/main/MarcoService
