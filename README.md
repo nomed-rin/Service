@@ -10,7 +10,7 @@ Example
 ```lua
 getgenv().RecordM = true
 ```
-ไฟล์ทั้งหมดที่ Record จะไปอยุ่ที่ folder Losery --> Marco
+ไฟล์ทั้งหมดที่ Record จะไปอยุ่ที่ folder Losery --> Marco <br />
 function Play ที่Support ดังนี้<br />
 <br />
 -- วางตัว  <br />
