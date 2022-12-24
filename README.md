@@ -6,8 +6,8 @@
 ในกรณี ที่มี Hub ที่เอา ตัวMacro  ไปใช้คุณสามารถแชร์ไฟล์กับค่ายอื่นๆได้ด้วย
 เสถียรในระดับ Royx <br />
 มี Optionดังนี้  <br />
-Record Marco ใช้ได้โดยการ ปรับ ผ่าน Env หรือคนส่วนใหญ่รู้จักกัน ในชื่อ getgenv()
-Example 
+Record Marco ใช้ได้โดยการ ปรับ ผ่าน Env หรือคนส่วนใหญ่รู้จักกัน ในชื่อ getgenv()<br />
+Example <br />
 ```lua
 getgenv().RecordM = true
 ```
